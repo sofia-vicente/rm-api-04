@@ -6,20 +6,12 @@
 }
 
 body{
-    background-image: url('/public/fio.jpg');
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
+    background-image: url('https://wallpaperaccess.com/full/2880737.png');
     background-attachment: fixed;
-    display: flex;
-    justify-content: center;
-    align-items: center;
 }
 
 main{
     display: flex;
-    justify-content: center;
+    flex-direction: column;
     align-items: center;
-    flex-wrap: wrap;
-    gap: 50px;
 }
